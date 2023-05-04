@@ -1,0 +1,7 @@
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\bin\Debug\oop_assessment_2.exe.config
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\bin\Debug\oop_assessment_2.exe
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\bin\Debug\oop_assessment_2.pdb
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\obj\Debug\oop_assessment_2.csproj.AssemblyReference.cache
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\obj\Debug\oop_assessment_2.csproj.CoreCompileInputs.cache
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\obj\Debug\oop_assessment_2.exe
+C:\Users\microsoft\Source\Repos\harsimrangill-dev\oop_assessment_2.2\oop_assessment_2\obj\Debug\oop_assessment_2.pdb
